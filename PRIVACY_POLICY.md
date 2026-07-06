@@ -1,12 +1,12 @@
-# Privacy Policy for Kitchen Drop
+# Privacy Policy for Plated
 
 **Last updated: July 3, 2026**
 
-Kitchen Drop ("the app", "we", "us") is a cooking-challenge app that helps you build a daily cooking habit, earn XP, and connect with friends. This policy explains what information the app collects, how it's used, and what choices you have.
+Plated ("the app", "we", "us") is a cooking-challenge app that helps you build a daily cooking habit, earn XP, and connect with friends. This policy explains what information the app collects, how it's used, and what choices you have.
 
 ## No account, no email, no password
 
-Kitchen Drop does not require you to sign up with an email address, phone number, or password. When you first open the app, it generates a random device identifier that is used to identify you within the app's social features. We never ask for or store your real name, email, or any other contact information.
+Plated does not require you to sign up with an email address, phone number, or password. When you first open the app, it generates a random device identifier that is used to identify you within the app's social features. We never ask for or store your real name, email, or any other contact information.
 
 ## Information we collect
 
@@ -42,11 +42,27 @@ Kitchen Drop does not require you to sign up with an email address, phone number
 
 - Social features (friends, rivals, shared recipes) are entirely optional — the app works fully offline for personal streak tracking.
 - You can remove friend connections or stop sharing recipes at any time from within the app.
-- Uninstalling the app deletes all locally stored data. To request deletion of your synced social data (chef code, username, friend list, shared activity) from our servers, contact us using the email below with your chef code.
+- Uninstalling the app deletes all locally stored data immediately, with nothing further to request.
+
+## Delete Your Data
+
+To request deletion of your Plated data from our servers, email **odamonoo@gmail.com** with the subject line "Delete my data" and include your **chef code** (found at the top of the Friends tab) so we can locate your record.
+
+**What gets deleted:**
+- Your chef code, username, and device identifier
+- Your friend connections and rival selection
+- Your activity history visible to friends (themes, tiers, XP, self-ratings)
+- Any recipes you've shared with friends
+- Any pending nudges or shared-challenge invites
+
+**What isn't affected:**
+- Data stored only on your own device (your local streak, XP, photos, and cookbook) — uninstalling Plated removes this immediately; you don't need to contact us for that.
+
+We process deletion requests within **30 days** and don't retain a backup of deleted data beyond that period.
 
 ## Children's privacy
 
-Kitchen Drop is not directed at children under 13 and does not knowingly collect information from children under 13.
+Plated is not directed at children under 13 and does not knowingly collect information from children under 13.
 
 ## Changes to this policy
 
